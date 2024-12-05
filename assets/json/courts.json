@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "courtName": "Epic Box",
+            "type": "A",
+            "availableDate": "9 de julio 2024",
+            "rainy": 30,
+            "availableSchedule": "7:00 am a 4:00 pm",
+            "image": "court1_carousel",
+            "cost": "25"
+        },
+        {
+            "id": 2,
+            "courtName": "Rusty Tenis",
+            "type": "C",
+            "availableDate": "10 de julio 2024",
+            "rainy": 60,
+            "availableSchedule": "7:00 am a 4:00 pm",
+            "image": "court2_carousel",
+            "cost": "30"
+        },
+        {
+            "id": 3,
+            "courtName": "Sport Box",
+            "type": "B",
+            "availableDate": "10 de julio 2024",
+            "rainy": 60,
+            "availableSchedule": "7:00 am a 4:00 pm",
+            "image": "court1_carousel",
+            "cost": "30"
+        },
+        {
+            "id": 4,
+            "courtName": "Sport Box",
+            "type": "B",
+            "availableDate": "10 de julio 2024",
+            "rainy": 60,
+            "availableSchedule": "7:00 am a 4:00 pm",
+            "image": "court1_carousel",
+            "cost": "30"
+        },
+        {
+            "id": 5,
+            "courtName": "Double Box",
+            "type": "C",
+            "availableDate": "10 de julio 2024",
+            "rainy": 60,
+            "availableSchedule": "7:00 am a 4:00 pm",
+            "image": "court1_carousel",
+            "cost": "30"
+        }
+    ]
+}
